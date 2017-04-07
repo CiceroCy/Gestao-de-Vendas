@@ -1,2 +1,3 @@
-br\com\gestao\controllers\HomeController.class
-br\com\gestao\Boot.class
+br\com\gestaoVendas\controller\IndexController.class
+br\com\gestaoVendas\controller\HomeController.class
+br\com\gestaoVendas\Boot.class

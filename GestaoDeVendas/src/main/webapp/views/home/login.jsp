@@ -10,10 +10,11 @@
 <link rel="stylesheet" href="../../assets/css/AdminLTE.min.css">
 </head>
 <body class="hold-transition login-page">
-	<div class="login-logo">
-		<b>SGV</b>
-	</div>
 	<div class="login-box">
+		<div class="login-logo">
+			<b>SGV</b>
+		</div>
+
 		<div class="login-box-body">
 			<p class="login-box-msg">Faça login para entrar no Sistema</p>
 			<form action="" method="POST">
